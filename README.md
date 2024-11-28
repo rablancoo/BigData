@@ -29,6 +29,6 @@ Este proyecto tiene como objetivo mejorar la precisión de un modelo de reconoci
 A pesar de estos esfuerzos, las mejoras en la precisión fueron modestas. Para mejorar aún más el rendimiento del modelo se hace uso de la IA, la cual, sugiere las siguientes recomendaciones:
 - **Especificación de la Tasa de Aprendizaje**: Especificar claramente la tasa de aprendizaje para el método de optimización.
 - **Capa de Regularización**: Introducir una capa de regularización para mitigar el sobreentrenamiento durante el entrenamiento.
-Estos cambios se ven el archivo Clase_4_mnist_90_3.html
+- Estos cambios se ven el archivo Clase_4_mnist_90_3.html
 
 Al implementar estas recomendaciones, esperamos lograr mejores resultados en futuras iteraciones del modelo.

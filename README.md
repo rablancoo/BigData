@@ -41,5 +41,6 @@ Este proyecto tiene como objetivo mejorar la precisión de un modelo de reconoci
 ## Recomendaciones para Mejora Adicional
 A pesar de estos esfuerzos, las mejoras en la precisión fueron modestas. Para mejorar aún más el rendimiento del modelo se hace uso de la IA, la cual, sugiere las siguientes recomendaciones:
 - **Especificación de la Tasa de Aprendizaje**: Especificar claramente la tasa de aprendizaje para el método de optimización.
+- Tal vez, con un mayor número de épocas se logré mejorar el desempeño.
 
 Al implementar estas recomendaciones, esperamos lograr mejores resultados en futuras iteraciones del modelo.

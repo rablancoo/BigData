@@ -10,6 +10,7 @@ Este proyecto tiene como objetivo mejorar la precisión de un modelo de reconoci
 2. **Arquitectura del Modelo**: 
    - Se aumentó el número de filtros y capas a 32 y 64, respectivamente. Este cambio buscó crear más capas con tamaños de filtro basados en potencias de 2 (1, 2, 4, 8, 16, 32, 64...) para facilitar la eficiencia computacional.
    - Se incrementó el número de épocas de entrenamiento a 20.
+   - Se agrego normalización a la salida de cada capa.
 
 3. **Función de Activación**: 
    - La función de activación se cambió de `tanh` a `ReLU`. Se eligió ReLU porque no se satura como lo hace `tanh`, lo que puede mejorar el rendimiento del aprendizaje.
